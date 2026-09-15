@@ -4,6 +4,8 @@ StreamForge is a production-minded engineering showcase for importing multi-giga
 
 **Live demo:** https://tanjir-mahabub.github.io/streamforge-csv-ingestion/
 
+**Source code:** https://github.com/tanjir-mahabub/streamforge-csv-ingestion
+
 ## Live product experience
 
 The public frontend runs as a safe interactive simulation: upload any CSV, start/pause/resume the pipeline, monitor throughput and ETA, inspect data-quality signals, search/filter records, and explore the architecture. No visitor data is uploaded; selected files are used only to estimate workload size in the browser.
