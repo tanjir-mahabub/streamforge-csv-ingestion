@@ -1,5 +1,5 @@
 {
-  "name": "streamforge-csv-platform",
+  "name": "streamforge-csv-ingestion",
   "private": true,
   "packageManager": "pnpm@10.28.2",
   "scripts": {
