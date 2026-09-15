@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: process.env.GITHUB_ACTIONS ? '/getonnet-csv-import/' : '/',
+  base: process.env.GITHUB_ACTIONS ? '/streamforge-csv-ingestion/' : '/',
   plugins: [react()],
 })
