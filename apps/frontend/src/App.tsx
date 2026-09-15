@@ -108,7 +108,7 @@ export default function App() {
       <div className="owner"><span>TM</span><div><strong>Tanjir Mahabub</strong><small>Workspace owner</small></div></div>
     </aside>
     <main id="top">
-      <header><div className="mobile-logo">StreamForge</div><div className="header-status"><i/>All systems operational</div><button className="theme" onClick={() => setDark(!dark)} aria-label="Toggle color theme">{icon('moon')}</button><a className="github" href="https://github.com/tanjir-mahabub/getonnet-csv-import" target="_blank" rel="noreferrer">View source ↗</a></header>
+      <header><div className="mobile-logo">StreamForge</div><div className="header-status"><i/>All systems operational</div><button className="theme" onClick={() => setDark(!dark)} aria-label="Toggle color theme">{icon('moon')}</button><a className="github" href="https://github.com/tanjir-mahabub/streamforge-csv-ingestion" target="_blank" rel="noreferrer">View source ↗</a></header>
       <div className="content">
         <section className="intro"><div><p className="eyebrow">Data ingestion platform</p><h1>Move millions of records.<br/><span>Without breaking flow.</span></h1><p>Resilient CSV ingestion with streaming backpressure, resumable jobs, live observability, and memory-safe rendering.</p></div><div className="architecture-pill"><span>Designed for</span><strong>2GB+ datasets</strong><small>Constant-memory processing</small></div></section>
 
