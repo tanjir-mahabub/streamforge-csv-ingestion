@@ -26,7 +26,7 @@ This backend service is responsible for:
    Then Set:
 
    ```
-   DATABASE_URL='mongodb://localhost:27017/getonnet_db'
+   DATABASE_URL='mongodb://localhost:27017/streamforge_db'
    CSV_FILE_PATH=data/customers-2000000.csv
    ```
 
